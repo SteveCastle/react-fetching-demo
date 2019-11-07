@@ -1,0 +1,44 @@
+body {
+  background-color: #e5e3e6;
+  font-family: "Roboto", sans-serif;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  margin: 0 auto;
+  width: 640px;
+  max-width: 80%;
+}
+.list {
+  list-style: none;
+}
+
+.list-item {
+  background-color: white;
+  margin: 8px;
+  padding: 2rem;
+  border-radius: 4px;
+}
+
+.list-item a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: #1c2022;
+}
+
+.card {
+  background-color: white;
+  margin: 8px;
+  padding: 2rem;
+  border-radius: 4px;
+}
+
+.img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 4rem;
+}
